@@ -1,6 +1,6 @@
 # Tugas Akhir Dicoding
 
-Ini adalah proyek tugas akhir yang diselesaikan sebagai bagian dari program pembelajaran Dicoding. Proyek ini terdiri dari sebuah halaman web statis yang menggunakan HTML, CSS, dan gambar.
+Ini adalah proyek tugas akhir yang diselesaikan sebagai bagian dari program pembelajaran Dicoding. Project ini terdiri dari sebuah halaman web statis yang menggunakan HTML, CSS, dan gambar.
 
 ## Struktur Project
 
