@@ -1,23 +1,21 @@
-# Proyek Akhir Dicoding - Halaman Web Sederhana
+# Tugas Akhir Dicoding
 
-Repositori ini berisi proyek akhir untuk kursus Dicoding. Ini adalah halaman web sederhana yang dirancang menggunakan HTML dan CSS, yang menunjukkan keterampilan dasar pengembangan web.
+Ini adalah proyek tugas akhir yang diselesaikan sebagai bagian dari program pembelajaran Dicoding. Proyek ini terdiri dari sebuah halaman web statis yang menggunakan HTML, CSS, dan gambar.
 
-## Gambaran Proyek
+## Struktur Proyek
 
-Proyek ini adalah sebuah halaman web sederhana yang terdiri dari:
-- File `index.html`, yang berfungsi sebagai halaman utama situs.
-- File `style.css` yang mendefinisikan gaya untuk halaman, terletak di folder `css`.
-- Gambar yang digunakan dalam proyek, terletak di folder `img`.
+- `index.html`: File utama yang berisi struktur halaman web.
+- `css/`: Folder yang berisi file CSS untuk gaya halaman web.
+- `img/`: Folder yang berisi gambar yang digunakan dalam halaman.
 
-### Fitur:
-- Desain responsif menggunakan CSS.
-- Tata letak yang bersih dan sederhana.
-- Penggunaan gambar pribadi sebagai bagian dari konten web.
+## Cara Menjalankan Proyek
 
-## Instalasi dan Pengaturan
+1. Clone repositori ini atau unduh file ZIP.
+2. Ekstrak semua file.
+3. Buka file `index.html` di peramban web untuk melihat tampilan halaman.
 
-Untuk menjalankan proyek ini secara lokal:
+## Teknologi yang Digunakan
 
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/your-username/tugas-akhir-dicoding.git
+- **HTML**: Untuk struktur halaman.
+- **CSS**: Untuk desain dan layout.
+- **Gambar**: Berbagai gambar yang digunakan dalam halaman.
