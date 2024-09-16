@@ -2,13 +2,13 @@
 
 Ini adalah proyek tugas akhir yang diselesaikan sebagai bagian dari program pembelajaran Dicoding. Proyek ini terdiri dari sebuah halaman web statis yang menggunakan HTML, CSS, dan gambar.
 
-## Struktur Proyek
+## Struktur Project
 
 - `index.html`: File utama yang berisi struktur halaman web.
 - `css/`: Folder yang berisi file CSS untuk gaya halaman web.
 - `img/`: Folder yang berisi gambar yang digunakan dalam halaman.
 
-## Cara Menjalankan Proyek
+## Cara Menjalankan
 
 1. Clone repositori ini atau unduh file ZIP.
 2. Ekstrak semua file.
