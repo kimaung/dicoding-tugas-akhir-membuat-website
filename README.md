@@ -1,3 +1,5 @@
+![Tampilan](img/web.png)
+
 # Tugas Akhir Dicoding
 
 Ini adalah project tugas akhir yang diselesaikan sebagai bagian dari program pembelajaran Dicoding. Project ini terdiri dari sebuah halaman web statis yang menggunakan HTML, CSS, dan gambar.
